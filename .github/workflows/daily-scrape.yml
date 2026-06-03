@@ -1,0 +1,44 @@
+name: Daily scrape
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # Runs every day at 11:00 UTC
+  workflow_dispatch: # Adds the manual Run workflow button in the Actions tab
+
+permissions:
+  contents: write # Allows the workflow to commit changes back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          SITE_USERNAME: ${{ secrets.SITE_USERNAME }}
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+        run: python dbchs_scraper_with_json.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dbchs_final_current.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: daily scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
