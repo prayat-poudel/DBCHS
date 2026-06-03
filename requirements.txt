@@ -1,0 +1,7 @@
+numpy
+pandas
+python-dateutil
+selenium
+webdriver-manager
+openpyxl
+xlrd
