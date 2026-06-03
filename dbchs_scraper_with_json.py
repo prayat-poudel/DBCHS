@@ -1,16 +1,5 @@
 from __future__ import annotations
 
-# =========================
-# EDIT THESE VALUES FIRST
-# =========================
-USERNAME = os.environ.get("SITE_USERNAME", "")
-PASSWORD = os.environ.get("SITE_PASSWORD", "")
-HEADLESS = True
-CHROME_BINARY = ""  # Optional. Leave blank unless Chrome is in a non-standard location.
-DOWNLOAD_DIR = "downloads"  # Folder created next to this script.
-CUSTOM_REPORT_MONTHS_BACK = 4
-ALLOW_AGE_REPORT_FALLBACK = True  # If the custom age report download times out, create a blank age file and keep going.
-
 import ast
 import json
 import logging
@@ -34,6 +23,18 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select, WebDriverWait
+# =========================
+# EDIT THESE VALUES FIRST
+# =========================
+USERNAME = os.environ.get("SITE_USERNAME", "")
+PASSWORD = os.environ.get("SITE_PASSWORD", "")
+HEADLESS = True
+CHROME_BINARY = ""  # Optional. Leave blank unless Chrome is in a non-standard location.
+DOWNLOAD_DIR = "downloads"  # Folder created next to this script.
+CUSTOM_REPORT_MONTHS_BACK = 4
+ALLOW_AGE_REPORT_FALLBACK = True  # If the custom age report download times out, create a blank age file and keep going.
+
+
 
 try:
     from webdriver_manager.chrome import ChromeDriverManager
