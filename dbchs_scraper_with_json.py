@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 from dateutil.relativedelta import relativedelta
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, InvalidSelectorException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -115,18 +115,18 @@ class Selectors:
         "//button[contains(normalize-space(.), 'Add Rule')]",
         "//button[contains(normalize-space(.), 'Add rule')]",
         "//button[contains(normalize-space(.), 'Add Filter')]",
-        "//button[contains(@wire:click, 'addRule')]",
-        "//button[contains(@wire:click, 'addRulesetRule')]",
+        "//button[contains(@*[name()='wire:click'], 'addRule')]",
+        "//button[contains(@*[name()='wire:click'], 'addRulesetRule')]",
     )
     RUN_REPORT_XPATHS = (
         "//button[@data-cy='primary-button' and contains(normalize-space(.), 'Run Report')]",
         "//button[contains(normalize-space(.), 'Run Report')]",
-        "//button[contains(@wire:click, 'saveAndOpen')]",
+        "//button[contains(@*[name()='wire:click'], 'saveAndOpen')]",
     )
     EXCEL_EXPORT_XPATHS = (
         "//button[contains(normalize-space(.), 'Excel')]",
         "//button[@data-cy='secondary-button' and contains(normalize-space(.), 'Excel')]",
-        "//button[contains(@wire:click, 'exportToExcel')]",
+        "//button[contains(@*[name()='wire:click'], 'exportToExcel')]",
     )
 
 
@@ -1053,7 +1053,10 @@ class ShelterLuvScraper:
 
         def finder(driver):
             for xpath in xpaths:
-                elements = driver.find_elements(By.XPATH, xpath)
+                try:
+                    elements = driver.find_elements(By.XPATH, xpath)
+                except InvalidSelectorException:
+                    continue
                 for element in elements:
                     try:
                         if not require_displayed or element.is_displayed():
