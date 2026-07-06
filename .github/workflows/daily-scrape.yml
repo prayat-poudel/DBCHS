@@ -3,10 +3,10 @@ name: Daily scrape
 on:
   schedule:
     - cron: "0 11 * * *" # Runs every day at 11:00 UTC
-  workflow_dispatch:
+  workflow_dispatch: # Adds the manual Run workflow button in the Actions tab
 
 permissions:
-  contents: write
+  contents: write # Allows the workflow to commit changes back to the repo
 
 jobs:
   scrape:
@@ -31,7 +31,7 @@ jobs:
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
         run: python dbchs_scraper_with_json.py
 
-      - name: Commit and push after successful scrape
+      - name: Commit and push if scrape succeeded
         if: ${{ success() }}
         run: |
           git config user.name "github-actions[bot]"
@@ -41,9 +41,10 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "Scraper ran successfully, but Git detected no content changes."
+            echo "This should be rare because the JSON includes last_scraped_at."
             git commit --allow-empty -m "chore: daily scrape ran successfully $(date -u +'%Y-%m-%d %H:%M UTC')"
           else
-            echo "Scraper ran successfully and file changed."
+            echo "Scraper ran successfully and JSON changed."
             git commit -m "chore: update daily scrape data $(date -u +'%Y-%m-%d %H:%M UTC')"
           fi
 
