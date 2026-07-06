@@ -31,13 +31,16 @@ jobs:
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
         run: python dbchs_scraper_with_json.py
 
-      - name: Commit and push if changed
+      - name: Commit and push if scraper succeeded and file changed
+        if: ${{ success() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add dbchs_final_current.json
+
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "Scraper ran successfully, but no changes to commit."
           else
             git commit -m "chore: daily scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
