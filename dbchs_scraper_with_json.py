@@ -1956,7 +1956,7 @@ def main() -> None:
         )
         getBreedAppData(DOWNLOAD_PATH, [MATCH_DATASET_FILENAME])
         final_file = getAttributeAppData(DOWNLOAD_PATH, [BREED_FILENAME, PIC_LINKS_FILENAME])
-        final_json_file = write_wix_json(final_file)
+        final_json_file = write_wix_json(final_file, BASE_DIR / FINAL_JSON_OUTPUT_FILENAME)
 
         logger.info("Done. Final CSV output: %s", final_file)
         logger.info("Done. Final JSON output: %s", final_json_file)
