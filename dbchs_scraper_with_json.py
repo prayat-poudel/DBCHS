@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import ast
 import json
+from datetime import datetime, timezone
 import logging
 import os
 import re
@@ -1908,6 +1909,11 @@ def write_wix_json(csv_path: Path, json_path: Path | None = None) -> Path:
                 df[column] = numeric_values.fillna(0).astype(int)
             else:
                 df[column] = numeric_values.where(numeric_values.notna(), "")
+
+    # Add a run timestamp so the JSON output changes after every successful scrape.
+    # This preserves the current top-level structure: a list of animal records.
+    last_scraped_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    df["last_scraped_at"] = last_scraped_at
 
     records = df.to_dict(orient="records")
 
