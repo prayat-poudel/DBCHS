@@ -8,7 +8,7 @@
     "Kennel_Card_Memo_Date": "09/11/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 69,
+    "Days_In_Custody": 70,
     "Dog_Attributes": "",
     "Age_Months": 74,
     "Size_Group": "Large (60-99)",
@@ -42,7 +42,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-53913",
@@ -53,7 +53,7 @@
     "Kennel_Card_Memo_Date": "06/13/2025",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 34,
+    "Days_In_Custody": 35,
     "Dog_Attributes": "",
     "Age_Months": 41,
     "Size_Group": "Medium (25-59)",
@@ -87,7 +87,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54132",
@@ -98,7 +98,7 @@
     "Kennel_Card_Memo_Date": "07/28/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 451,
+    "Days_In_Custody": 452,
     "Dog_Attributes": "Kids 13+, Active, Adult-Only Home Preferred, Affectionate, Friendly, Gentle, Meet and greet required, Playful",
     "Age_Months": 50,
     "Size_Group": "Medium (25-59)",
@@ -132,7 +132,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54334",
@@ -143,7 +143,7 @@
     "Kennel_Card_Memo_Date": "12/30/2025",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 316,
+    "Days_In_Custody": 317,
     "Dog_Attributes": "Playful, Quirky, Friendly, Active, Affectionate, Kids 13+",
     "Age_Months": 34,
     "Size_Group": "Medium (25-59)",
@@ -177,7 +177,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54335",
@@ -188,9 +188,9 @@
     "Kennel_Card_Memo_Date": "12/29/2025",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 316,
+    "Days_In_Custody": 317,
     "Dog_Attributes": "Active, Affectionate, Friendly, Playful, Quirky",
-    "Age_Months": 17,
+    "Age_Months": 18,
     "Size_Group": "Medium (25-59)",
     "Labrador": 0,
     "Mixed": 1,
@@ -198,7 +198,7 @@
     "Poodle": 0,
     "Retriever": 0,
     "Terrier": 0,
-    "Age_Group": "Young",
+    "Age_Group": "Adult",
     "Adult_Only_Home_Preferred": 0,
     "Good_with_Kids": 0,
     "Kids_13": 0,
@@ -222,7 +222,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54345",
@@ -233,9 +233,9 @@
     "Kennel_Card_Memo_Date": "01/09/2026",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 300,
+    "Days_In_Custody": 301,
     "Dog_Attributes": "Active, Friendly, Kids 13+, Playful",
-    "Age_Months": 21,
+    "Age_Months": 22,
     "Size_Group": "Medium (25-59)",
     "Labrador": 0,
     "Mixed": 1,
@@ -267,7 +267,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54369",
@@ -278,7 +278,7 @@
     "Kennel_Card_Memo_Date": "02/06/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 272,
+    "Days_In_Custody": 273,
     "Dog_Attributes": "Active, Friendly, Playful, Quirky",
     "Age_Months": 59,
     "Size_Group": "Medium (25-59)",
@@ -312,18 +312,18 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54426",
     "Name": "Socks",
-    "Photo": "<img src='https://new-s3.shelterluv.com/profile-pictures/145400548fe17a4b5fab6df567f091c1/a3d3b68f28148a7006b147d923468722.jpg' height='100'></img>",
-    "Image_URL": "https://new-s3.shelterluv.com/profile-pictures/145400548fe17a4b5fab6df567f091c1/a3d3b68f28148a7006b147d923468722.jpg",
+    "Photo": "<img src='https://new-s3.shelterluv.com/profile-pictures/cec9e340d5ff232d8ab62cb629853b7b/8dd7f8c58520175ffd8b22fceb043721.jpg' height='100'></img>",
+    "Image_URL": "https://new-s3.shelterluv.com/profile-pictures/cec9e340d5ff232d8ab62cb629853b7b/8dd7f8c58520175ffd8b22fceb043721.jpg",
     "Kennel_Card_Website_Memo": "Meet Socks! This tall, beautiful 1.5-year-old girl is an absolute gem who is rapidly coming out of her shell and showing off her amazing personality. While she can start off a tad timid, her sweet, playful nature shines through the moment she gets outside! Why You’ll Love Her: Yard Enthusiast: Running around in the yard and getting a few tasty treats are the fast tracks to Socks’ heart. Great with Kids: Socks is gentle and does wonderfully with children! A True \"Dog’s Dog\": Socks loves canine companions. She would thrive most in a home with a settled, confident resident dog to show her the ropes and be her built-in best friend. Ideal Home: Socks is looking for a family with a yard to zoom in, some kiddos to love, and a doggy sibling to guide her as she continues to blossom. If you have a friendly dog at home looking for a playful sister, Socks is your girl!",
     "Kennel_Card_Memo_Date": "07/23/2026",
     "Sex": "Female",
     "Status": "On Shelter",
-    "Days_In_Custody": 174,
+    "Days_In_Custody": 175,
     "Dog_Attributes": "No Cats, No chickens, Not Good with Cats, Good with Kids, Friendly",
     "Age_Months": 22,
     "Size_Group": "Medium (25-59)",
@@ -357,7 +357,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54430",
@@ -368,7 +368,7 @@
     "Kennel_Card_Memo_Date": "03/31/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 103,
+    "Days_In_Custody": 104,
     "Dog_Attributes": "No Cats, Kids 13+, Meet and greet required",
     "Age_Months": 19,
     "Size_Group": "Medium (25-59)",
@@ -402,7 +402,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54547",
@@ -413,7 +413,7 @@
     "Kennel_Card_Memo_Date": "08/05/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 158,
+    "Days_In_Custody": 159,
     "Dog_Attributes": "No Cats",
     "Age_Months": 29,
     "Size_Group": "Medium (25-59)",
@@ -447,7 +447,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54603",
@@ -458,7 +458,7 @@
     "Kennel_Card_Memo_Date": "07/15/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 135,
+    "Days_In_Custody": 136,
     "Dog_Attributes": "",
     "Age_Months": 28,
     "Size_Group": "Large (60-99)",
@@ -492,7 +492,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54689",
@@ -503,7 +503,7 @@
     "Kennel_Card_Memo_Date": "08/05/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 100,
+    "Days_In_Custody": 101,
     "Dog_Attributes": "",
     "Age_Months": 27,
     "Size_Group": "Large (60-99)",
@@ -537,7 +537,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54698",
@@ -548,7 +548,7 @@
     "Kennel_Card_Memo_Date": "09/12/2026",
     "Sex": "Female",
     "Status": "On Shelter",
-    "Days_In_Custody": 95,
+    "Days_In_Custody": 96,
     "Dog_Attributes": "",
     "Age_Months": 27,
     "Size_Group": "Medium (25-59)",
@@ -582,7 +582,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54701",
@@ -593,7 +593,7 @@
     "Kennel_Card_Memo_Date": "09/11/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 94,
+    "Days_In_Custody": 95,
     "Dog_Attributes": "",
     "Age_Months": 27,
     "Size_Group": "Medium (25-59)",
@@ -627,7 +627,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54739",
@@ -638,7 +638,7 @@
     "Kennel_Card_Memo_Date": "10/24/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 61,
+    "Days_In_Custody": 62,
     "Dog_Attributes": "",
     "Age_Months": 14,
     "Size_Group": "Medium (25-59)",
@@ -672,7 +672,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54740",
@@ -683,9 +683,9 @@
     "Kennel_Card_Memo_Date": "09/12/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 61,
+    "Days_In_Custody": 62,
     "Dog_Attributes": "",
-    "Age_Months": 25,
+    "Age_Months": 26,
     "Size_Group": "Large (60-99)",
     "Labrador": 0,
     "Mixed": 1,
@@ -717,7 +717,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54784",
@@ -728,7 +728,7 @@
     "Kennel_Card_Memo_Date": "10/10/2026",
     "Sex": "Female",
     "Status": "Available Foster",
-    "Days_In_Custody": 34,
+    "Days_In_Custody": 35,
     "Dog_Attributes": "",
     "Age_Months": 25,
     "Size_Group": "Medium (25-59)",
@@ -762,7 +762,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54809",
@@ -773,7 +773,7 @@
     "Kennel_Card_Memo_Date": "10/28/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 27,
+    "Days_In_Custody": 28,
     "Dog_Attributes": "",
     "Age_Months": 2,
     "Size_Group": "Medium (25-59)",
@@ -807,7 +807,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   },
   {
     "Animal_ID": "DBCH-A-54820",
@@ -818,7 +818,7 @@
     "Kennel_Card_Memo_Date": "",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 29,
+    "Days_In_Custody": 30,
     "Dog_Attributes": "",
     "Age_Months": 24,
     "Size_Group": "Medium (25-59)",
@@ -852,6 +852,6 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-10-31T15:59:45Z"
+    "last_scraped_at": "2026-11-01T17:02:02Z"
   }
 ]
