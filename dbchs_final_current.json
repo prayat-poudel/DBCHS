@@ -8,7 +8,7 @@
     "Kennel_Card_Memo_Date": "09/11/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 91,
+    "Days_In_Custody": 92,
     "Dog_Attributes": "",
     "Age_Months": 75,
     "Size_Group": "Large (60-99)",
@@ -37,7 +37,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54132",
@@ -48,7 +48,7 @@
     "Kennel_Card_Memo_Date": "07/28/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 473,
+    "Days_In_Custody": 474,
     "Dog_Attributes": "Kids 13+, Active, Adult-Only Home Preferred, Affectionate, Friendly, Gentle, Meet and greet required, Playful",
     "Age_Months": 51,
     "Size_Group": "Medium (25-59)",
@@ -77,7 +77,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54334",
@@ -88,7 +88,7 @@
     "Kennel_Card_Memo_Date": "12/30/2025",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 338,
+    "Days_In_Custody": 339,
     "Dog_Attributes": "Playful, Quirky, Friendly, Active, Affectionate, Kids 13+",
     "Age_Months": 35,
     "Size_Group": "Medium (25-59)",
@@ -117,7 +117,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54335",
@@ -128,7 +128,7 @@
     "Kennel_Card_Memo_Date": "12/29/2025",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 338,
+    "Days_In_Custody": 339,
     "Dog_Attributes": "Active, Affectionate, Friendly, Playful, Quirky",
     "Age_Months": 18,
     "Size_Group": "Medium (25-59)",
@@ -157,7 +157,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54345",
@@ -168,7 +168,7 @@
     "Kennel_Card_Memo_Date": "01/09/2026",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 322,
+    "Days_In_Custody": 323,
     "Dog_Attributes": "Active, Friendly, Kids 13+, Playful",
     "Age_Months": 22,
     "Size_Group": "Medium (25-59)",
@@ -197,7 +197,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54369",
@@ -208,7 +208,7 @@
     "Kennel_Card_Memo_Date": "02/06/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 294,
+    "Days_In_Custody": 295,
     "Dog_Attributes": "Active, Friendly, Playful, Quirky",
     "Age_Months": 60,
     "Size_Group": "Medium (25-59)",
@@ -237,7 +237,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54689",
@@ -248,7 +248,7 @@
     "Kennel_Card_Memo_Date": "08/05/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 122,
+    "Days_In_Custody": 123,
     "Dog_Attributes": "",
     "Age_Months": 27,
     "Size_Group": "Large (60-99)",
@@ -277,7 +277,47 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
+  },
+  {
+    "Animal_ID": "DBCH-A-54698",
+    "Name": "Mo",
+    "Photo": "<img src='https://new-s3.shelterluv.com/profile-pictures/78198473d37a8f8caf425055f6cb41e1/983c117bab5b320790098fcbc8ebaf08.jpg' height='100'></img>",
+    "Image_URL": "https://new-s3.shelterluv.com/profile-pictures/78198473d37a8f8caf425055f6cb41e1/983c117bab5b320790098fcbc8ebaf08.jpg",
+    "Kennel_Card_Website_Memo": "Mo is a gorgeous, 50-pound mixed breed girl with a big smile, an even bigger heart, and the most adorable squishy face! With her sweet tan-and-white coat and expressive eyes, she’s a total crowd-pleaser who brings instant joy everywhere she trots. Mo is the definition of a fun-loving companion. She adores playtime, loves soaking up outdoor sunshine, and has an absolute blast engaging with her favorite humans. Her bright, happy personality makes every day feel like a party, she’s always ready for a game of fetch, a brisk walk, or just sharing huge, happy grins. Because of her irresistible, squishy folds and loose skin, Mo will need a dedicated family who understands the art of wrinkle maintenance! Keeping those cute skin folds clean and dry with routine wipe-downs is key to keeping her comfortable and free from yeast irritation. It’s a tiny bit of extra care that pays off tenfold in endless love, silly antics, and loyal companionship. If you’re looking for a playful, sweet girl who will keep you laughing and smiling, Mo is ready to meet her forever match!",
+    "Kennel_Card_Memo_Date": "09/12/2026",
+    "Sex": "Female",
+    "Status": "On Shelter",
+    "Days_In_Custody": 118,
+    "Dog_Attributes": "",
+    "Age_Months": 27,
+    "Size_Group": "Medium (25-59)",
+    "Labrador": 0,
+    "Mixed": 1,
+    "Poodle": 0,
+    "Retriever": 0,
+    "Age_Group": "Adult",
+    "Adult_Only_Home_Preferred": 0,
+    "Kids_13": 0,
+    "Meet_and_greet_required": 0,
+    "Single_Dog_Home": 0,
+    "No_Cats": 0,
+    "Weight": 40,
+    "Active": 0,
+    "Affectionate": 0,
+    "Cuddly": 0,
+    "Friendly": 0,
+    "Gentle": 0,
+    "Good_on_leash": 0,
+    "Independent": 0,
+    "Obedient_and_Well_Mannered": 0,
+    "Playful": 0,
+    "Quiet": 0,
+    "Quirky": 0,
+    "Relaxed_and_Mellow": 0,
+    "Shy": 0,
+    "Housebroken": 0,
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54737",
@@ -288,7 +328,7 @@
     "Kennel_Card_Memo_Date": "10/28/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 84,
+    "Days_In_Custody": 85,
     "Dog_Attributes": "",
     "Age_Months": 6,
     "Size_Group": "Medium (25-59)",
@@ -317,7 +357,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   },
   {
     "Animal_ID": "DBCH-A-54820",
@@ -328,7 +368,7 @@
     "Kennel_Card_Memo_Date": "11/10/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 51,
+    "Days_In_Custody": 52,
     "Dog_Attributes": "",
     "Age_Months": 25,
     "Size_Group": "Medium (25-59)",
@@ -357,46 +397,6 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
-  },
-  {
-    "Animal_ID": "DBCH-A-54846",
-    "Name": "Adams",
-    "Photo": "<img src='https://new-s3.shelterluv.com/profile-pictures/cfd2d2e3d7bf5ea43146ea6901dc92a2/c562d86ee4177a2efe11ae3c072157e4.jpeg' height='100'></img>",
-    "Image_URL": "https://new-s3.shelterluv.com/profile-pictures/cfd2d2e3d7bf5ea43146ea6901dc92a2/c562d86ee4177a2efe11ae3c072157e4.jpeg",
-    "Kennel_Card_Website_Memo": "",
-    "Kennel_Card_Memo_Date": "",
-    "Sex": "Male",
-    "Status": "On Shelter",
-    "Days_In_Custody": 21,
-    "Dog_Attributes": "",
-    "Age_Months": 12,
-    "Size_Group": "Medium (25-59)",
-    "Labrador": 0,
-    "Mixed": 1,
-    "Poodle": 0,
-    "Retriever": 0,
-    "Age_Group": "Young",
-    "Adult_Only_Home_Preferred": 0,
-    "Kids_13": 0,
-    "Meet_and_greet_required": 0,
-    "Single_Dog_Home": 0,
-    "No_Cats": 0,
-    "Weight": 25,
-    "Active": 0,
-    "Affectionate": 0,
-    "Cuddly": 0,
-    "Friendly": 0,
-    "Gentle": 0,
-    "Good_on_leash": 0,
-    "Independent": 0,
-    "Obedient_and_Well_Mannered": 0,
-    "Playful": 0,
-    "Quiet": 0,
-    "Quirky": 0,
-    "Relaxed_and_Mellow": 0,
-    "Shy": 0,
-    "Housebroken": 0,
-    "last_scraped_at": "2026-11-22T18:18:40Z"
+    "last_scraped_at": "2026-11-23T22:26:59Z"
   }
 ]
