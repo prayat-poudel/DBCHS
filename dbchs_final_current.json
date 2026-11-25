@@ -8,7 +8,7 @@
     "Kennel_Card_Memo_Date": "09/11/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 93,
+    "Days_In_Custody": 94,
     "Dog_Attributes": "",
     "Age_Months": 75,
     "Size_Group": "Large (60-99)",
@@ -36,7 +36,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54334",
@@ -47,7 +47,7 @@
     "Kennel_Card_Memo_Date": "12/30/2025",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 340,
+    "Days_In_Custody": 341,
     "Dog_Attributes": "Playful, Quirky, Friendly, Active, Affectionate, Kids 13+",
     "Age_Months": 35,
     "Size_Group": "Medium (25-59)",
@@ -75,7 +75,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54335",
@@ -86,7 +86,7 @@
     "Kennel_Card_Memo_Date": "12/29/2025",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 340,
+    "Days_In_Custody": 341,
     "Dog_Attributes": "Active, Affectionate, Friendly, Playful, Quirky",
     "Age_Months": 18,
     "Size_Group": "Medium (25-59)",
@@ -114,7 +114,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54345",
@@ -125,7 +125,7 @@
     "Kennel_Card_Memo_Date": "01/09/2026",
     "Sex": "Female",
     "Status": "In Training",
-    "Days_In_Custody": 324,
+    "Days_In_Custody": 325,
     "Dog_Attributes": "Active, Friendly, Kids 13+, Playful",
     "Age_Months": 22,
     "Size_Group": "Medium (25-59)",
@@ -153,7 +153,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54369",
@@ -164,7 +164,7 @@
     "Kennel_Card_Memo_Date": "02/06/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 296,
+    "Days_In_Custody": 297,
     "Dog_Attributes": "Active, Friendly, Playful, Quirky",
     "Age_Months": 60,
     "Size_Group": "Medium (25-59)",
@@ -192,7 +192,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54689",
@@ -203,7 +203,7 @@
     "Kennel_Card_Memo_Date": "08/05/2026",
     "Sex": "Male",
     "Status": "In Training",
-    "Days_In_Custody": 124,
+    "Days_In_Custody": 125,
     "Dog_Attributes": "",
     "Age_Months": 28,
     "Size_Group": "Large (60-99)",
@@ -231,7 +231,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54698",
@@ -242,7 +242,7 @@
     "Kennel_Card_Memo_Date": "09/12/2026",
     "Sex": "Female",
     "Status": "On Shelter",
-    "Days_In_Custody": 119,
+    "Days_In_Custody": 120,
     "Dog_Attributes": "",
     "Age_Months": 27,
     "Size_Group": "Medium (25-59)",
@@ -270,7 +270,7 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   },
   {
     "Animal_ID": "DBCH-A-54737",
@@ -281,7 +281,7 @@
     "Kennel_Card_Memo_Date": "10/28/2026",
     "Sex": "Male",
     "Status": "On Shelter",
-    "Days_In_Custody": 86,
+    "Days_In_Custody": 87,
     "Dog_Attributes": "",
     "Age_Months": 6,
     "Size_Group": "Medium (25-59)",
@@ -309,45 +309,6 @@
     "Relaxed_and_Mellow": 0,
     "Shy": 0,
     "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
-  },
-  {
-    "Animal_ID": "DBCH-A-54820",
-    "Name": "Marley",
-    "Photo": "<img src='https://new-s3.shelterluv.com/profile-pictures/1cd145a3733588d5400b00fddd58750e/1c6c83730f02d91a32a42c8c8cb0c28d.jpg' height='100'></img>",
-    "Image_URL": "https://new-s3.shelterluv.com/profile-pictures/1cd145a3733588d5400b00fddd58750e/1c6c83730f02d91a32a42c8c8cb0c28d.jpg",
-    "Kennel_Card_Website_Memo": "Marley can be a little timid when meeting someone new, but a few tasty bribes are always welcome to help ease those first-meeting jitters! This extra-fluffy boy has a wonderful personality just waiting to shine. He's goofy, bouncy, and always ready to strike a pose when the right treats are involved. Marley's beautiful coat will require regular grooming, which is a commitment worth considering before bringing him home. He may take a little more time and effort to keep looking his best, but I think you'll agree he's absolutely worth it!",
-    "Kennel_Card_Memo_Date": "11/10/2026",
-    "Sex": "Male",
-    "Status": "On Shelter",
-    "Days_In_Custody": 53,
-    "Dog_Attributes": "",
-    "Age_Months": 25,
-    "Size_Group": "Medium (25-59)",
-    "Labrador": 0,
-    "Mixed": 1,
-    "Poodle": 0,
-    "Retriever": 0,
-    "Age_Group": "Adult",
-    "Kids_13": 0,
-    "Single_Dog_Home": 0,
-    "Adult_Only_Home_Preferred": 0,
-    "No_Cats": 0,
-    "Weight": 46,
-    "Active": 0,
-    "Affectionate": 0,
-    "Cuddly": 0,
-    "Friendly": 0,
-    "Gentle": 0,
-    "Good_on_leash": 0,
-    "Independent": 0,
-    "Obedient_and_Well_Mannered": 0,
-    "Playful": 0,
-    "Quiet": 0,
-    "Quirky": 0,
-    "Relaxed_and_Mellow": 0,
-    "Shy": 0,
-    "Housebroken": 0,
-    "last_scraped_at": "2026-11-24T21:05:37Z"
+    "last_scraped_at": "2026-11-25T20:22:24Z"
   }
 ]
